@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-class Scores {
+class Scores2 {
 	public static void main(String[] args) {
 
 		try {
